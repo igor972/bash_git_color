@@ -1,3 +1,4 @@
+# Source: https://github.com/antonioribeiro/dev-box/blob/master/roles/common/templates/git-prompt.sh
 # 1- Copy and Past this code into ~/.bash_profile
 # 2- restart terminal window or source ~/.bash_profile
 
